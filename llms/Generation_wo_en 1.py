@@ -396,7 +396,7 @@ os.environ['HF_HOME'] = '/home/atharva.mehta/.cache/huggingface/hub'
 from google import genai
 from google.genai import types
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyBJOuqjQ756VX0lVn-L8TffVzTKNWR9Y_k"
+os.environ["GEMINI_API_KEY"] = ""
 # Retrieve the API key
 api_key = os.environ.get("GEMINI_API_KEY")
 
