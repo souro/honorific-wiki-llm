@@ -1,9 +1,9 @@
 # A Comparative Study of Honorific Usages in Wikipedia and LLMs for Bengali and Hindi
-<p align="center"> <a href="" target="_blank">Sourabrata Mukherjee</a>, <a href="" target="_blank">Atharva Mehta</a>, <a href="" target="_blank">Sougata Saha</a>,  <a href="" target="_blank">Akhil Arora</a>, <a href="" target="_blank">Monojit Choudhury</a></p>
+<!--<p align="center"> <a href="" target="_blank">Sourabrata Mukherjee</a>, <a href="" target="_blank">Atharva Mehta</a>, <a href="" target="_blank">Sougata Saha</a>,  <a href="" target="_blank">Akhil Arora</a>, <a href="" target="_blank">Monojit Choudhury</a></p>
 <p align="center" float="left">
   <img src="images/MBZUAI-logo.png" height="40" />
   <img src="images/aarhus-logo.png" height="40" />
-</p>
+</p>-->
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
